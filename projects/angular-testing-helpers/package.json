@@ -1,7 +1,7 @@
 {
   "name": "@tsrise/angular-testing-helpers",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^10.2.0",
     "@angular/core": "^10.2.0"

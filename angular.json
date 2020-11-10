@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/angular-testing-helpers",
       "sourceRoot": "projects/angular-testing-helpers/src",
-      "prefix": "ath",
+      "prefix": "tsr",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
